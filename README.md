@@ -10,5 +10,5 @@ Aber meistens nutze ich meinen Computer um mein Unterrichtsmaterial zu erstellen
 
 Ich bin also (viel) mehr "Lehrender" als Programmierer und meine Projekte hier sind nur für den Hausgebrauch. Aber falls Ihr doch etwas nützliches für Euch findet, freut es mich.
 
-Das war's erstmal, ich verabschiede mich - bis denne
+Das war's erstmal, ich verabschiede mich - bis denne  
 Jörg
